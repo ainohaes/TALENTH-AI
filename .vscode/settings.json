@@ -1,0 +1,6 @@
+{
+  "mcpFigma.websocketPort": 3055,
+  "mcpFigma.autoStartWebSocket": true,
+  "mcpFigma.enableStatusBar": true,
+  "mcpFigma.aiAssistant": "github-copilot"
+}

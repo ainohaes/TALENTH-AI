@@ -1,0 +1,10 @@
+{
+  "inputs": [],
+  "servers": {
+    "TalkToFigma": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@sethdouglasford/mcp-figma@1.0.9"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "talenth-ai-workspace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-mcp-figma.mjs"
+  },
+  "dependencies": {
+    "@sethdouglasford/mcp-figma": "1.0.9"
+  }
+}
